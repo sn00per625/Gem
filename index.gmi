@@ -1,5 +1,7 @@
 # header
 ## header2
 ### header3
--> link
-9 front
+-> link https://github.com/kr1sp1n/awesome-gemini
+--> 9 fronthttps://blog.brennanbrown.ca/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https-287ca3603144
+--> https://open-store.io/app/gem.aaron/
+--> https://thinkmoult.com/exploring-gemini.html
