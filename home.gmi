@@ -1,2 +1,6 @@
 new text
-nothing
+
+installed 9social on raspberry 9front
+got git hub working from both ends
+need test repo to practice
+
