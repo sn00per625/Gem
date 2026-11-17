@@ -1,7 +1,11 @@
-new text
 
 installed 9social on raspberry 9front
 got git hub working from both ends
 need test repo to practice
 
 added tmux nvim/lua and zsh
+very complicated now
+ohmyzsh
+ohmynvim
+tmux something
+
